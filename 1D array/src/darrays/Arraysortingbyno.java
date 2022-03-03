@@ -12,6 +12,7 @@ public class Arraysortingbyno {
         Arrays.sort(arr);
  
         System.out.println("SORTED ARRAY IS : arr[] :" +Arrays.toString(arr));
+        System.out.println("SORTED ARRAY IS : arr[] :" +Arrays.toString(arr));
     }
-
+	
 }
